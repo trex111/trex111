@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @trex111
 - 👀 I’m interested in ELECTRONICS
-- 🌱 I’m currently learning PHP
+- 🌱 I’m currently learning C
 - 📫 How to reach me,Email me at trex58233@gmail.com
 
 <!---
